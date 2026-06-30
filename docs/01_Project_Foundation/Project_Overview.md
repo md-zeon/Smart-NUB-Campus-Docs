@@ -1,4 +1,9 @@
-# Smart NUB Campus (SNC)
+---
+title: Project Overview
+version: 1.0
+status: Draft
+last_updated: 2026-07-01
+---
 
 ## Overview
 
